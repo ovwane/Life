@@ -1,3 +1,4 @@
-# My Awesome Book
+# 生活
 
-This file file serves as your book's preface, a great place to describe your book's content and ideas.
+生活就像一杯茶，慢慢品，方得其中滋味。
+
