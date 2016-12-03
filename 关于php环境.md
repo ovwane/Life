@@ -11,3 +11,17 @@ sudo apt-get -y install mysql-server mysql-client
 ```
 sudo apt-get -y nginx
 ```
+
+### PHP7
+
+```
+sudo apt-add-repository ppa:ondrej/php
+sudo apt-get update
+sudo apt-get -y install php7.0 php7.0-cli php7.0-fpm php7.0-gd php7.0-json php7.0-mysql php7.0-readline
+```
+
+### PHPMyAdmin
+
+```
+sudo apt-get -y install phpmyadmin
+```
