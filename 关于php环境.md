@@ -27,3 +27,23 @@ sudo apt-get -y install phpmyadmin
 sudo ln -s /usr/share/phpmyadmin/ /var/www/phpmyadmin
 ```
 
+### VHosts
+
+```
+vi /etc/nginx/nginx.conf
+```
+
+```
+include /etc/nginx/vhosts/*;
+```
+
+```
+sudo mkdir vhsots;
+cd vhosts;
+touch phpmyadmin.conf;
+```
+
+```
+
+```
+
