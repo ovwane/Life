@@ -24,4 +24,6 @@ sudo apt-get -y install php7.0 php7.0-cli php7.0-fpm php7.0-gd php7.0-json php7.
 
 ```
 sudo apt-get -y install phpmyadmin
+sudo ln -s /usr/share/phpmyadmin/ /var/www/phpmyadmin
 ```
+
