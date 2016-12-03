@@ -46,7 +46,7 @@ touch phpmyadmin.conf;
 ```
 server {
 	listen 80;
-	server_name db.cuiqingcai.com;
+	server_name yourdoamin.com;
 	
 	index index.php index.html index.htm;
 	root /var/www/phpmyadmin;
